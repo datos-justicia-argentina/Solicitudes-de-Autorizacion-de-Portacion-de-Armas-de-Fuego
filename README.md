@@ -1,0 +1,2 @@
+# Solicitudes-de-Autorizacion-de-Portacion-de-Armas-de-Fuego
+En este conjunto de datos se detallan las solicitudes de autorización de portación de armas de fuego comprendidas en el "Procedimiento de Participación Ciudadana por Oposición para la Autorización de Tenencia o Portación de Armas de Fuego". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación. Resolución MJyDDHH Nº 373/2013.
