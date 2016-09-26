@@ -1,7 +1,3 @@
-
-# Solicitudes de Autorizacion de Portacion de Armas de Fuego
-En este conjunto de datos se detallan las solicitudes de autorización de portación de armas de fuego comprendidas en el "Procedimiento de Participación Ciudadana por Oposición para la Autorización de Tenencia o Portación de Armas de Fuego". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación. Resolución MJyDDHH Nº 373/2013.
-
 # Solicitudes de Autorización de Portación de Armas de Fuego
 En este conjunto de datos se detallan las solicitudes de autorización de portación de armas de fuego comprendidas en el "Procedimiento de Participación Ciudadana por Oposición para la Autorización de Tenencia o Portación de Armas de Fuego". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación. Resolución MJyDDHH Nº 373/2013.
 
@@ -20,18 +16,18 @@ En este conjunto de datos se detallan las solicitudes de autorización de portac
 ### Solicitudes de Autorización de Portación de Armas de Fuego
 -	**Nombre:** solicitudes-autorización-portacion-armas-fuego.csv.
 -	**Descripción:** Listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación.
--	**Formato**: CSV.
+-	**Formato**: CSV separado por comas.
 -	**Rango temporal:** -
 -	**Fecha de Actualización:** 21/07/2016
 
 ### Campos del recurso
--	**TipoDocumento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc).
--	**Documento (int):** Número de documento (máx 11 caracterers).
--	**Apellidos (string):** Apellidos del solicitante (máx 60 caracteres).
--	**Nombres (string):** Nombres del solicitante (máx 40 caracteres).
--	**FechaPublicación (date):** Fecha de publicación en la página web del ANMaC.
--	**FechaVencimiento (date):** Fecha de despublicación en la página web del ANMaC.
--	**Descripción (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
+- **tipo_documento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc).
+-	**documento (int):** Número de documento (máx 11 caracterers).
+-	**apellidos (string):** Apellidos del solicitante (máx 60 caracteres).
+-	**nombres (string):** Nombres del solicitante (máx 40 caracteres).
+-	**fecha_publicación (date):** Fecha de publicación en la página web del ANMaC.
+-	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC.
+-	**descripción (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
 
 ## Notas
 Resolución MJyDDHH Nº 373/2013 Resolución
