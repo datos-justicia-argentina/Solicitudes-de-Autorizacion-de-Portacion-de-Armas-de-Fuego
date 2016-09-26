@@ -25,7 +25,7 @@ En este conjunto de datos se detallan las solicitudes de autorización de portac
 -	**documento (int):** Número de documento (máx 11 caracterers).
 -	**apellidos (string):** Apellidos del solicitante (máx 60 caracteres).
 -	**nombres (string):** Nombres del solicitante (máx 40 caracteres).
--	**fecha_publicación (date):** Fecha de publicación en la página web del ANMaC.
+-	**fecha_publicacion (date):** Fecha de publicación en la página web del ANMaC.
 -	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC.
 -	**descripción (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
 
