@@ -18,7 +18,6 @@ En este conjunto de datos se detallan las solicitudes de autorización de portac
 -	**Descripción:** Listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación.
 -	**Formato**: CSV separado por comas.
 -	**Rango temporal:** -
--	**Fecha de Actualización:** 21/07/2016
 
 ### Campos del recurso
 - **tipo_documento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc).
