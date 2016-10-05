@@ -1,5 +1,5 @@
 # Solicitudes de Autorización de Portación de Armas de Fuego
-En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC 9/2016
+En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
 
 ## Características
 -	**Fecha de Publicación:** 05/09/2016
