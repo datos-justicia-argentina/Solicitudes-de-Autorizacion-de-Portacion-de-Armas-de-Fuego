@@ -1,5 +1,5 @@
 # Solicitudes de Autorización de Portación de Armas de Fuego
-En este conjunto de datos se detallan las solicitudes de autorización de portación de armas de fuego comprendidas en el "Procedimiento de Participación Ciudadana por Oposición para la Autorización de Tenencia o Portación de Armas de Fuego". Las solicitudes permanecen publicadas hasta las 00:00 horas del día siguiente al vencimiento de la publicación. Resolución MJyDDHH Nº 373/2013.
+En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación. Resolución ANMaC 9/2016
 
 ## Características
 -	**Fecha de Publicación:** 05/09/2016
@@ -14,7 +14,7 @@ En este conjunto de datos se detallan las solicitudes de autorización de portac
 ## Recursos
 
 ### Solicitudes de Autorización de Portación de Armas de Fuego
--	**Nombre:** solicitudes-autorización-portacion-armas-fuego.csv.
+-	**Nombre:** solicitudes-autorizacion-portacion-armas-fuego.csv.
 -	**Descripción:** Listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación.
 -	**Formato**: CSV separado por comas.
 -	**Rango temporal:** -
@@ -29,4 +29,4 @@ En este conjunto de datos se detallan las solicitudes de autorización de portac
 -	**descripción (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres).
 
 ## Notas
-Resolución MJyDDHH Nº 373/2013 Resolución
+Resolución ANMaC 9/2016
