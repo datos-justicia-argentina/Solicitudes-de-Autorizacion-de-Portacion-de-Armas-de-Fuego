@@ -23,6 +23,7 @@ Características
 -	**Frecuencia de Actualización:** Quincenal.
 
 Recursos Disponibles
+--------------------
 
 ### Solicitudes de Autorización de Portación de Armas de Fuego
 
