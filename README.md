@@ -18,7 +18,7 @@ Características
 
 -	**Responsable:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC. Coordinación de Sistemas
 
--	**Grupos:** Sistema Registral
+-	**Grupo:** Sistema Registral
 
 -	**Frecuencia de Actualización:** Quincenal
 
