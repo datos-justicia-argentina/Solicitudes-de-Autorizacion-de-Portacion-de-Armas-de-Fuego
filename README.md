@@ -49,7 +49,7 @@ Recursos disponibles
 
 -	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC
 
--	**descripción (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres)
+-	**descripcion (string):** Dato del arma de fuego correspondiente (máx. 100 caracteres)
 
 ### Notas
 
