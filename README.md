@@ -8,8 +8,6 @@ Características
 
 -	**Fecha de Publicación:** 05/09/2016
 
--	**Recurso:** Solicitudes de Autorización de Portación de Armas de Fuego
-
 -	**Tags o Etiquetas:** portación, armas, RENAR, ANMaC
 
 -	**Organización:** Ministerio de Justicia y Derechos Humanos. Agencia Nacional de Materiales Controlados - ANMaC 
