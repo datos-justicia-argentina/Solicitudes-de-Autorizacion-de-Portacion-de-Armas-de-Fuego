@@ -6,7 +6,7 @@ En este conjunto de datos se detallan las Solicitudes de Autorización de Portac
 Características
 ---------------
 
--	**Fecha de Publicación:** 05/09/2016
+-	**Fecha de Primera Publicación:** 05/09/2016
 
 -	**Tags o Etiquetas:** portación, armas, RENAR, ANMaC
 
