@@ -27,27 +27,27 @@ Recursos disponibles
 
 -	**Nombre del archivo:** solicitudes-autorizacion-portacion-armas-fuego.csv
 
--	**Descripción del contenido:** Listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
+-	**Descripción del contenido:** listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
 
 -	**Formato**: CSV delimitado por comas, codificado en UTF-8
 
--	**Rango temporal:** : Listado actualizado a la fecha consignada como "Datos actualizados al"
+-	**Rango temporal:** : listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
-- **tipo_documento (string):** Tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc)
+- **tipo_documento (string):** tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc)
 
--	**documento (int):** Número de documento (máx 11 caracterers)
+-	**documento (int):** número de documento
 
--	**apellidos (string):** Apellidos del solicitante (máx 60 caracteres)
+-	**apellidos (string):** apellidos del solicitante
 
--	**nombres (string):** Nombres del solicitante (máx 40 caracteres)
+-	**nombres (string):** nombres del solicitante
 
--	**fecha_publicacion (date):** Fecha de publicación en la página web del ANMaC
+-	**fecha_publicacion (date):** fecha de publicación en la página web del ANMaC
 
--	**fecha_vencimiento (date):** Fecha de despublicación en la página web del ANMaC
+-	**fecha_vencimiento (date):** fecha de despublicación en la página web del ANMaC
 
--	**descripcion (string):** Descripción del tipo de solicitud (máx. 100 caracteres)
+-	**descripcion (string):** descripción del tipo de solicitud
 
 ### Notas
 
