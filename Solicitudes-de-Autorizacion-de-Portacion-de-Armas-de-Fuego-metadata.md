@@ -35,7 +35,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
-- **tipo_documento (string):** tipo de documento (máx 4 caracteres) (DNI, LE, LC, etc)
+- **tipo_documento (string):** tipo de documento (DNI, LE, LC, etc)
 
 -	**documento (int):** número de documento
 
