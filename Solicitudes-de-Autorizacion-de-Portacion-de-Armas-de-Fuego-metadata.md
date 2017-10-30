@@ -23,9 +23,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Solicitudes de Autorización de Portación de Armas de Fuego AAAA-MM quincena
+### Solicitudes de Autorización de Portación de Armas de Fuego - AAAA-MM quincena 9
 
--	**Nombre del archivo:** solicitudes-autorizacion-portacion-armas-fuego.csv
+-	**Nombre del archivo:** solicitudes-autorizacion-portacion-armas-fuego-AAAA-MM-quincena-9.csv
 
 -	**Descripción del contenido:** listado de Solicitudes de Portación de Armas de Fuego. Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación
 
@@ -52,3 +52,5 @@ Recursos disponibles
 ### Notas
 
 [Resolución ANMaC 9/2016](http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265340/norma.htm)
+
+* quincena 9: Toma valores 1 y 2 (1 para referenciar la primera quincena del mes y 2 para la segunda quincena del mes)
