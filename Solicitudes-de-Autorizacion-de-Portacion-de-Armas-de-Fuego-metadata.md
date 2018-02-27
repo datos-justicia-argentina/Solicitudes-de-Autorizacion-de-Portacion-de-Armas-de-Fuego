@@ -3,6 +3,8 @@ Solicitudes de Autorización de Portación de Armas de Fuego
 
 En este conjunto de datos se detallan las Solicitudes de Autorización de Portación de Armas de Fuego comprendidas en el "Sistema de Control Ciudadano para Autorizaciones". Los datos son actualizados en forma diaria y son vistos hasta las 00:00 horas del día siguiente del vencimiento de la publicación.
 
+http://datos.jus.gob.ar/dataset/autorizacion-portacion-armas-fuego
+
 Características
 ---------------
 
