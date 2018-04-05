@@ -53,7 +53,7 @@ Recursos disponibles
 
 -	**sexo (string):** sexo del solicitante
 
-### solicitudes de Autorización de Portación de Armas de Fuego - AAAA
+### Solicitudes de Autorización de Portación de Armas de Fuego - AAAA
 
 -   **Nombre:** solicitudes-autorizacion-portacion-armas-fuego-AAAA.zip
 
