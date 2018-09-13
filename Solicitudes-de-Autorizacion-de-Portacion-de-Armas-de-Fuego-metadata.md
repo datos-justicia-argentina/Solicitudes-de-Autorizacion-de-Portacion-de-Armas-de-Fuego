@@ -51,7 +51,7 @@ Recursos disponibles
 
 -	**descripcion (string):** descripción del tipo de solicitud
 
--	**sexo (string):** sexo del solicitante
+-	**genero (string):** género del solicitante
 
 ### Solicitudes de Autorización de Portación de Armas de Fuego - AAAA
 
